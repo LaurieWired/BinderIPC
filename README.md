@@ -1,3 +1,5 @@
+![BinderIPC logo](https://github.com/LaurieWired/BinderIPC/blob/main/source/ipc.jpg)
+
 # Interprocess Communication in Android
 This repository contains the code and supporting files for demonstrating interprocess communication in Android. The following apps are ordered in increasing levels of complexity for different IPC techniques:
 
