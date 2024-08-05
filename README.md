@@ -7,6 +7,8 @@ This repository contains the code and supporting files for demonstrating interpr
   - Implementing IPC via the Android Binder
 - MyEmailNotif + MyNotepadNotif
   - Android Binder communication with additional DeathRecipient attached from the notepad app
+ 
+Find the prebuilt APKs inside the [apps](https://github.com/LaurieWired/BinderIPC/tree/main/apps) directory or the source code for each app inside the [source](https://github.com/LaurieWired/BinderIPC/tree/main/source) directory!
 
 ## Android Source Code References
 - Binder
